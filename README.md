@@ -34,4 +34,4 @@ The system follows an **ELT (Extract, Load, Transform)** approach and consists o
    - **Streamlit** provides an interactive UI for users to input queries and receive recommendations.
 
 
-   ![Architecture Diagram]("./architecture_diagram.jpg")
+   ![Architecture Diagram](./architecture_diagram.jpg)
